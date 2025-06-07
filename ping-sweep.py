@@ -15,6 +15,6 @@ def sweep_subnet(subnet_prefix):
         else:
             print(f"❌ Host {ip} is unreachable")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     subnet = input("Enter subnet (e.g., 192.168.56): ").strip()
     sweep_subnet(subnet)
