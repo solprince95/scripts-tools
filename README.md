@@ -72,7 +72,7 @@ This tool is for educational and lab environments. Always have permission before
 🧠 Author
 
 Prince Solanki
-GitHub | Blog
+https://github.com/solprince95 
 
 
 ---
